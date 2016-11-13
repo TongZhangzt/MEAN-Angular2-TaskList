@@ -1,4 +1,6 @@
 #忽略node_modules目录下的所有文件
+node_modules
+npm-debug.log
 
 #仅仅忽略 client/node_modules文件
 client/node_modules/
